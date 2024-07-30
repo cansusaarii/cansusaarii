@@ -4,4 +4,6 @@ I am a senior student at Boğaziçi University, Department of Computer Science a
 
 👨‍💻I have taken some trainings from different courses about Python, SQL, Tableau and I continue to improve myself by taking part in different projects.
 
+💪I value the principle of lifelong learning.
+
 🌱I love discovering new places and learning new languages. I am currently learning German.
